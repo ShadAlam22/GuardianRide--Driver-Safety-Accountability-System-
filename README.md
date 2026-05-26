@@ -93,5 +93,6 @@ python app.py
 - **Hardware:** Sufficient processing power for real-time image analysis
 
 ---
-**Demo video - https://drive.google.com/file/d/1mMw3jGUJZRL5yBE4Slp11gmw2i0_7ytf/view?usp=sharing**
+**Demo video** - https://drive.google.com/file/d/1mMw3jGUJZRL5yBE4Slp11gmw2i0_7ytf/view?usp=sharing
+
 **Guardian Ride - Making Roads Safer Through Intelligent Driver Monitoring**
